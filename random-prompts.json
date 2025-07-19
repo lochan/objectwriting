@@ -1,6 +1,7 @@
 {
   "prompts": [
     "Coffee cup",
+    "Petrified wood",
     "Old t‑shirt",
     "Fire pit",
     "Milkshake",
@@ -70,6 +71,7 @@
     "Lighter",
     "Tin can",
     "Watch",
+    "Phone",
     "Drumstick",
     "Guitar pick",
     "Camera",
@@ -89,7 +91,7 @@
     "Earring",
     "Perfume bottle",
     "Mug",
-    "Tumblr",
+    "Tumbler",
     "Flashlight",
     "Remote",
     "Headphones",
@@ -105,6 +107,7 @@
     "Neck tie",
     "Plush toy",
     "Magnet",
-    "Nail polish"
+    "Nail polish",
+    "Chainsaw"
   ]
 }
